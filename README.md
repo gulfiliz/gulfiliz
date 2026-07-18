@@ -8,6 +8,6 @@ For my projects and skills, you can check out my [LinkedIn](https://linkedin.com
 
 ### 🌐 Channels you can connect with me
 - [Twitter](https://twitter.com/filiz_phys)
-- [Substack](https://substack.com/gulfilizakinalp)
+- [Substack](https://substack.com/@gulfilizakinalp)
 - [Goodreads](https://goodreads.com/gulfilizakinalp)
 - [Pinterest](https://pinterest.com/gulfilizakinalp)
