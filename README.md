@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Filiz 👋
 
-<!--
-**gulfiliz/gulfiliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physicist & Computer Scientist. My research interests are quantum computing, specifically the intersection of quantum error correction and deep learning / reinforcement learning.
 
-Here are some ideas to get you started:
+This is my blog, [*Fragmenta · Sképsis · Metaxy*](https://gulfiliz.github.io), where I write about physics, philosophy, and literature.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For my projects and skills, you can check out my [LinkedIn](https://linkedin.com/in/gulfilizakinalp).
+
+### 🌐 Channels you can connect with me
+- [Twitter](https://twitter.com/filiz_phys)
+- [LinkedIn](https://linkedin.com/in/gulfilizakinalp)
+- [Goodreads](https://goodreads.com/gulfilizakinalp)
+- [Pinterest](https://pinterest.com/gulfilizakinalp)
+
