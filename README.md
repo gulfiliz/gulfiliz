@@ -1,4 +1,4 @@
-### Hi, I'm Filiz 👋
+### Hi, I'm Gul Filiz AKINALP 👋
 
 Physicist & Computer Scientist. My research interests are quantum computing, specifically the intersection of quantum error correction and deep learning / reinforcement learning.
 
